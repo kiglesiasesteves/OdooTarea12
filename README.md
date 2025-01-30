@@ -50,10 +50,45 @@ siguientes datos:
 - 
 ![image](https://github.com/user-attachments/assets/859828c7-f0e9-4d93-9b63-42cf825b4813)
 
+Cambiamos de base de datos por no seleccionar el país, la demo data varía ligeramnete de un país a otro y es necesario repetir el ejercicio por esto
+
+
 
 
 Crea una sentencia que actualice el correo de los contactos cuyo dominio es
-@bilbao.example.com a @bilbao.bizkaia.neus
+@bilbao.example.com a @bilbao.bizkaia.eus
+
+![image](https://github.com/user-attachments/assets/6d9c05c8-b757-406a-bab0-615085fd6dca)
+
+La empresa Ready Mat ha hecho un ERE y ha despedido a todos los empleados
+que tenías como contacto. Crea una sentencia que elimine todos los contactos
+pertenecientes a la empresa “Ready Mat”, pero mantén la empresa. Añade una
+captura de pantalla de la sección de contactos de odoo con Ready Mat antes y
+después.
+
+Contactos de "ReadyMat" antes de la consulta 
+![image](https://github.com/user-attachments/assets/dd3f7984-1f1e-48c1-81ef-b9cd892aa72e)
+
+Eliminamos los contactos de ReadyMat que tenemos en uestra base de datos con la siguiente consulta
+
+![image](https://github.com/user-attachments/assets/17d42d09-bccd-402f-b608-1e9ff6517bac)
+
+Ahora al entrar en nuestro Odoo nos aparece esto en ReadyMat 
+
+![image](https://github.com/user-attachments/assets/048bb40f-a4ec-4376-b168-82de77719be0)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
