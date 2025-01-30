@@ -47,8 +47,16 @@ siguientes datos:
 - Nombre de la empresa
 - Número de facturas 
 - Total facturado SIN IMPUESTOS
+- 
+![image](https://github.com/user-attachments/assets/859828c7-f0e9-4d93-9b63-42cf825b4813)
 
-![Uploading image.png…]()
+
+
+Crea una sentencia que actualice el correo de los contactos cuyo dominio es
+@bilbao.example.com a @bilbao.bizkaia.neus
+
+
+
 
 
 
